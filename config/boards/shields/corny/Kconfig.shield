@@ -1,0 +1,4 @@
+config SHIELD_CORNY
+    bool "Corny 42-Key Split Keyboard"
+    help
+      Enable support for the Corny 42-key split keyboard.
